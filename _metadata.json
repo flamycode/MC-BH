@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "FreakyPunk #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "ae83e52d1718527b43ab52acb36c800813f58736",
+    "edition": 1,
+    "date": 1640563372222,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "36aa289acca02fe716ff48cf628931d62013ccf0",
+    "edition": 2,
+    "date": 1640563372258,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "adf59f7b2fb3e18f09e1c9efc493091176ba4d3b",
+    "edition": 3,
+    "date": 1640563372293,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "e5d87d24435016c7d69f21185df14c55aeb0d528",
+    "edition": 4,
+    "date": 1640563372327,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "7fc571d6e1048a69e0d3310821c96c8c46e89750",
+    "edition": 5,
+    "date": 1640563372362,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "5cb9851e4671654e5363edc8c0e343c7bf2cfe8b",
+    "edition": 6,
+    "date": 1640563372397,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "e5a59a8dc77f991befad9cf6f0cbee85071bd171",
+    "edition": 7,
+    "date": 1640563372430,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "91aae28e8396984d062cee18dfa7177308fca9e3",
+    "edition": 8,
+    "date": 1640563372466,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "1d325a0d8992dfcdf8849263ae6aa7090c163029",
+    "edition": 9,
+    "date": 1640563372500,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "a9199c8b2ea1d77ba4e28be654efbe16448ba4c6",
+    "edition": 10,
+    "date": 1640563372535,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "9e7ae8ec0b47c965c7f0e7f2838763e87d1258da",
+    "edition": 11,
+    "date": 1640563372571,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "8391ba9588a51fac3e3a65a5d9c28e464d5b7b8b",
+    "edition": 12,
+    "date": 1640563372608,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "bfab855a28281d5b8ef5c10dc9f53196af23c212",
+    "edition": 13,
+    "date": 1640563372643,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "ac8c87b815da67a77b85d46b735828ed95785cfa",
+    "edition": 14,
+    "date": 1640563372679,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "173e6125ebe30a6f4e9bafdcc2ea38e99752e576",
+    "edition": 15,
+    "date": 1640563372717,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "60e3304610fbd8c5cd52e43cde2357a48feaf6f6",
+    "edition": 16,
+    "date": 1640563372753,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "20ff5b50013a8ca3e93a41e891fefd7ae28d2d91",
+    "edition": 17,
+    "date": 1640563372788,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "15593493d5be7acab4879a24597b144519b7c281",
+    "edition": 18,
+    "date": 1640563372823,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "38afd4d15b9cd954ac3fb88e8fae433d6e9deedb",
+    "edition": 19,
+    "date": 1640563372858,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "283d52b24f9573ec333557a6ad0b6179516be848",
+    "edition": 20,
+    "date": 1640563372892,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "a1dab0dce297d45b7aefcaf14b0db3cb76317e23",
+    "edition": 21,
+    "date": 1640563372926,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "443af4a18a72ef1f0e54765cdfa082c6d555b82d",
+    "edition": 22,
+    "date": 1640563372961,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "c533945b4b75ba32bccc77c37ec23e75bbc3cfc5",
+    "edition": 23,
+    "date": 1640563372996,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "0132a64956eac4c6d42d1fb4b8e01ad6c65cdd51",
+    "edition": 24,
+    "date": 1640563373032,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "d711d17abc08f3bcf08c140e18acecf863ba9ed2",
+    "edition": 25,
+    "date": 1640563373066,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "8e4115ad31f8265b59e4ac3b3955722d9b682410",
+    "edition": 26,
+    "date": 1640563373100,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "4bc0548da52ee901f37e2b7b4c53b18c65613331",
+    "edition": 27,
+    "date": 1640563373136,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "5fdc81bac8a9cb896b6ee158a125d29d37b48839",
+    "edition": 28,
+    "date": 1640563373173,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "8cf6076028c3fc59f89c5c7a24a4c2146e4ea774",
+    "edition": 29,
+    "date": 1640563373209,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "1f101d1ce9d6fd46125b99580d8fe71c8dee6dcc",
+    "edition": 30,
+    "date": 1640563373250,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "395fe78273f9b2fccea0d671151045f2ff343b12",
+    "edition": 31,
+    "date": 1640563373294,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "866842e00f1ce25ebd9438ad7a522ecaf5a65705",
+    "edition": 32,
+    "date": 1640563373335,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "dac2b26fda76920c2c7d6c6d518e2b04b4334dd0",
+    "edition": 33,
+    "date": 1640563373369,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "e54b124d1f5e0c5dfe363d42e2454b6cb426bc67",
+    "edition": 34,
+    "date": 1640563373404,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "4f22088ecc19b4e32b38243c46455e7f2102a7bb",
+    "edition": 35,
+    "date": 1640563373439,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "3224350afb24d45d0cbbf3d35c40176ac54ee1c2",
+    "edition": 36,
+    "date": 1640563373474,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "f7f2627d5d7a4e4e465cc7a9b72607daac3a4238",
+    "edition": 37,
+    "date": 1640563373508,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "d86964357a583fe20c98a36daa7c4c780ee6900d",
+    "edition": 38,
+    "date": 1640563373543,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "acbababe7291d30e2b23850fd939341ac8293b91",
+    "edition": 39,
+    "date": 1640563373578,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "7dbb1f985865e9f2faade199d56b27b930421262",
+    "edition": 40,
+    "date": 1640563373613,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
